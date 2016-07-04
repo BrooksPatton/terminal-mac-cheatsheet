@@ -10,7 +10,6 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | Ctrl + A   | |
 | Ctrl + E   |  |
 | Ctrl + L   |  |
-| ⌘Cmd + K | |
 | Ctrl + U   |  |
 | Ctrl + K   |  |
 | Ctrl + W   |  |
@@ -26,19 +25,12 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | Esc + F  |  |
 | Esc + B  |  |
 | Esc + T  |  |
-| Tab  |  |
 
 ## CORE COMMANDS
 
 | Key/Command |  |
 | ----------- | ----------- |
-| cd |   |
-| cd [folder] |  |
-| cd /  |  |
 | cd -  |  |
-| ls |  |
-| ls -l |  |
-| ls -a |  |
 | ls -lh| Long listing with Human readable file sizes |
 | ls -R |  |
 | sudo [command] |  |
@@ -58,20 +50,11 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | [command-a] || [command-b] |  |
 | [command-a] & |  |
 
-
-## PIPING COMMANDS
-
-| Key/Command | Description |
-| ----------- | ----------- |
-| [command-a] \| [command-b] | |
-
-
 ## COMMAND HISTORY
 
 | Key/Command | Description |
 | ----------- | ----------- |
 | history n |   |
-| Ctrl + r  |  |
 | ![value] |   |
 | !! |   |
 
@@ -79,20 +62,10 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 
 | Key/Command | Description |
 | ----------- | ----------- |
-| touch [file] |    |
-| pwd |  |
 | . |   |
 | .. |  |
-| `ls -l ..` |  |
-| `cd ../../` |  |
 | cat |  |
-| rm [file] |   |
 | rm -i [file] |  |
-| rm -r [dir] |  |
-| rm -f [file] |  |
-| cp [file] [newfile] |  |
-| cp [file] [dir] |  |
-| mv [file] [new filename] |   |
 | pbcopy < [file] |  |
 | pbpaste |  |
 | pbpaste > [file] |  |
@@ -101,14 +74,10 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 
 | Key/Command | Description |
 | ----------- | ----------- |
-| mkdir [dir] |  |
 | mkdir -p [dir]/[dir] |   |
-| rmdir [dir] |  |
 | rm -R [dir] |  |
 | [command] \|  |
 | less |   |
-| [command] > [file] |   |
-| [command] >> [file] |  |
 | [command] < [file] |   |
 
 ## SEARCH
@@ -127,6 +96,5 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | [command] -h |  |
 | [command] —help |  |
 | info [command] |  |
-| man [command] |  |
 | whatis [command] |  |
 | apropos [search-pattern] |  |
