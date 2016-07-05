@@ -24,7 +24,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 
 ## CORE COMMANDS
 
-| Key/Command |  |
+| Key/Command | Description |
 | ----------- | ----------- |
 * ls
 * ls -l
