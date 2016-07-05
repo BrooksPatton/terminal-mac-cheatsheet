@@ -6,7 +6,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 ## HELP
 
 | Key/Command | Description |
-| ----------- | ----------- |
+| ----------- |
 | man [command]
 
 ## FILE MANAGEMENT
