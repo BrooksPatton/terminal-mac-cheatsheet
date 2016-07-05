@@ -67,6 +67,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 
 | Key/Command | Description |
 | ----------- | ----------- |
+
 * [command-a] | [command-b]
 
 
