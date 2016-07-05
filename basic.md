@@ -7,68 +7,68 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 
 | Key/Command | Description |
 | ----------- | ----------- |
-| man [command] | |  |
+| man [command] |
 
 ## FILE MANAGEMENT
 
 | Key/Command | Description |
 | ----------- | ----------- |
-| pwd |  |
-| touch [file] |    |
-| rm [file] |   |
-| rm -r [dir] |  |
-| rm -f [file] |  |
-| cp [file] [newfile] |  |
-| cp [file] [dir] |  |
-| mv [file] [new filename] | |    |
+| pwd |  
+| touch [file] |
+| rm [file] |
+| rm -r [dir] |
+| rm -f [file] |
+| cp [file] [newfile] |
+| cp [file] [dir] |
+| mv [file] [new filename] |
 
 ## CORE COMMANDS
 
 | Key/Command |  |
 | ----------- | ----------- |
-| ls |  |
-| ls -l |  |
-| ls -a |  |
-| `ls -l ..` |  |
-| cd |   |
-| cd [folder] |  |
-| cd /  |  |
-| `cd ../../` |  | |
+| ls |
+| ls -l |
+| ls -a |
+| `ls -l ..` |
+| cd |  
+| cd [folder] |
+| cd /  |  
+| `cd ../../` |  
 
 ## DIRECTORY MANAGEMENT
 
 | Key/Command | Description |
 | ----------- | ----------- |
-| mkdir [dir] |  |
-| rmdir [dir] |  |
-| [command] > [file] |   |
-| [command] >> [file] | | |
+| mkdir [dir] |
+| rmdir [dir] |
+| [command] > [file] |
+| [command] >> [file] |
 
 ## PIPING COMMANDS
 
 | Key/Command | Description |
 | ----------- | ----------- |
-| [command-a] \| [command-b] | | |
+| [command-a] \| [command-b] |
 
 ## COMMAND HISTORY
 
 | Key/Command | Description |
 | ----------- | ----------- |
-| history | | |
-| history \| grep [command] | |    |
-| Ctrl + r  |  |
+| history |
+| history \| grep [command] |
+| Ctrl + r  |  
 
 ## SHORTCUTS
 
 | Key/Command | Description |
 | ----------- | ----------- |
-| ⌘Cmd + K | |
-| Tab  | |  |
+| ⌘Cmd + K |
+| Tab  |
 
 ## Permissions
 
 | Key/Command | Description |
 | ----------- | ----------- |
-| sudo | |   |
+| sudo |
 | chmod +x [filename] | |   |
-| chown | |   |
+| chown |
